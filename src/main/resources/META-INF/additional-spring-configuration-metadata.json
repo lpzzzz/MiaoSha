@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.filters",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.filters."
+    },
+    {
+      "name": "spring.rabbitmq.template.retry.initial.interval",
+      "type": "java.lang.String",
+      "description": "Description for spring.rabbitmq.template.retry.initial.interval."
+    }
+  ] }

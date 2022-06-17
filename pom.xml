@@ -86,7 +86,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.54</version>
+            <version>1.2.83</version>
         </dependency>
 
         <!--MD5密码加密的依赖-->
